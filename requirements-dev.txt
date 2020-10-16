@@ -1,0 +1,9 @@
+dj-database-url==0.5.0
+dj-static==0.0.6
+Django==3.1
+django-filter==2.3.0
+djangorestframework==3.11.1
+Pillow==7.2.0
+python-decouple==3.3
+pytz==2020.1
+static3==0.7.0
