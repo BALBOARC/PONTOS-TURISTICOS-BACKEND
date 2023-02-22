@@ -6,6 +6,3 @@ utilizando as melhores práticas de desenvolvimento de software, desenvolvimento
 Curso do Gregory Pacheco (UDEMY)
 Engenheiro/Arquiteto de Software
 
-Projeto finalizado em execução no Heroku:
-
-https://pontos-turisticos-curso-teste.herokuapp.com/
